@@ -25,12 +25,14 @@ a:visited {
 	background-color: white;
 	overflow: hidden;
 	width: 850px;
+
 }
 
 .main-nav{
 	background-image:url(https://media.comicbook.com/2018/07/back-to-the-future-trilogy-1122951-1280x0.jpeg);
 	background-repeat:no-repeat;
 	background-size:cover;	background-position:center -60px; padding: 100px 20px 0px 20px;
+
 }
 
 .main-nav a{
@@ -44,6 +46,8 @@ a:visited {
 	position:relative;
 	top:10px;
 	transition: top 300ms ease;
+	border-radius: 25px;
+
 }
 
 .main-nav a:hover{
