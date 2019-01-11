@@ -9,6 +9,15 @@ body{
 	background-attachment:fixed;
 }
 
+a:link {
+  color: #fdb413;
+}
+
+a:visited {
+  color: #fdb413;
+}
+
+
 .page {
 	margin: 40px auto;
 	border: 2px solid black;
