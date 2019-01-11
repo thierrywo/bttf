@@ -13,6 +13,7 @@ body{
 	border-radius: 15px;
 	background-color: white;
 	overflow: hidden;
+	width: 850px;
 }
 
 .main-nav{
